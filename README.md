@@ -3,8 +3,11 @@
 Bem-vindo ao meu repositório! Aqui você encontrará projetos relacionados a Data Analytics, Data Science e MLOps.
 
 ## Sobre Mim
-Sou Morgana Almeida, atuo como Analytics Engineer em uma Fintech, tenho interesse em Data Science e MLOps.
-Acompanhe minha atuação profissional no perfil @morgana-almeida
+Sou Morgana Almeida, atuo como Analytics Engineer em uma Fintech, atuando em Dados Cross e Data Management. 
+Tenho interesse em Data Science e MLOps.
+
+### Conta profissional no GitHub
+Durante meu trabalho no PicPay, contribuo por meio da conta [@picpay morgana-almeida](https://github.com/morgana-almeida) em repositórios internos e projetos relevantes para a engenharia de dados e dados Cross.
 
 ## Projetos
 
