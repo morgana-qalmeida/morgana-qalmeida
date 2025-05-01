@@ -1,4 +1,6 @@
-# Meu Portfólio de Projetos
+# Hi, everyone! Welcome! 👋
+
+## Meu Portfólio de Projetos 
 
 Bem-vindo ao meu repositório! Aqui você encontrará projetos relacionados a Data Analytics, Data Science e MLOps.
 
@@ -21,6 +23,17 @@ Instruções básicas para rodar os projetos.
 ## Contato
 - Email: morgana.qalmeida@gmail.com
 - https://www.linkedin.com/in/morgana-qalmeida/
+
+### Minhas estatísticas:
+
+- Profissionais
+
+![Morgana's GitHub stats](https://github-readme-stats.vercel.app/api?username=morgana-almeida&count_private=true&show_icons=true&theme=dark)
+
+- Pessoais
+
+![Morgana's GitHub stats](https://github-readme-stats.vercel.app/api?username=morgana-qalmeida&count_private=true&show_icons=true&theme=tokyonight)
+
 
 <!---
 morgana-qalmeida/morgana-qalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
