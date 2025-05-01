@@ -17,8 +17,6 @@ Durante meu trabalho no PicPay, contribuo por meio da conta [@picpay morgana-alm
 - **Data Cleaning**: Scripts para limpeza e transformação de dados.
 - **Machine Learning**: Modelos de aprendizado de máquina.
 
-## Como Usar
-Instruções básicas para rodar os projetos.
 
 ## Contato
 - Email: morgana.qalmeida@gmail.com
