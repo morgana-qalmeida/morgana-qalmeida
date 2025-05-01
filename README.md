@@ -4,6 +4,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará projetos relacionados a Da
 
 ## Sobre Mim
 Sou Morgana Almeida, atuo como Analytics Engineer em uma Fintech, tenho interesse em Data Science e MLOps.
+Acompanhe minha atuação profissional no perfil @morgana-almeida
 
 ## Projetos
 
