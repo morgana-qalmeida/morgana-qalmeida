@@ -7,7 +7,7 @@ Sou Morgana Almeida, atuo como Analytics Engineer em uma Fintech, tenho interess
 
 ## Projetos
 
-- **Data Ingestion**: Scripts para exração de API e ingestão de dados.
+- **Data Ingestion**: Scripts para extração de API e ingestão de dados.
 - **Data Cleaning**: Scripts para limpeza e transformação de dados.
 - **Machine Learning**: Modelos de aprendizado de máquina.
 
