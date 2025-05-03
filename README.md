@@ -7,7 +7,7 @@ Sou Morgana Almeida, atuo como Analytics Engineer em uma Fintech, atuando em Dad
 Graduada em Processos Gerenciais (UniAteneu, 2014), MBA em Governança de TIC (Estácio, 2017) e Ciência de Dados (Estácio, 2024)
 Gosto de me desafiar e sou apaixonada por resolver problemas com dados, tenho interesse em Machine Learning e Data Science.
 
-### Conta profissional no GitHub
+### Conta enterprise no GitHub
 Atualmente trabalho na [PicPay](https://picpay.com/), contribuo por meio da conta Github [morgana-almeida](https://github.com/morgana-almeida) em repositórios internos e projetos relevantes para a engenharia de dados e dados Cross.
 
 ## Projetos
